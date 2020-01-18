@@ -13,9 +13,9 @@ Feel free to comment or improve the solutions.
 1. Find the last element of a list.
 
 ```haskell
-λ> myLast [1,2,3,4]
+λ> takeLast [1,2,3,4]
 4
-λ> myLast ['x','y','z']
+λ> takeLast ['x','y','z']
 'z' 
 ```
 
