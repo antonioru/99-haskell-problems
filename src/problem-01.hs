@@ -1,4 +1,5 @@
 -- Find the last element of a list.
+module Problem1(takeLast, takeLast2) where
 
 -- Defining takeLast as a function that takes a list of generic type and returns an element of that type.
 takeLast :: [a] -> a
